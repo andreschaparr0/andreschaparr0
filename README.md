@@ -62,6 +62,9 @@ Industrial Engineer and Systems & Computing Engineer from **Universidad de los A
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreschaparr0&theme=tokyo-night&hide_border=true" width="100%" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=andreschaparr0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreschaparr0&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+
 
